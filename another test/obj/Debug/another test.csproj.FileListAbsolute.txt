@@ -1,0 +1,7 @@
+C:\Users\Мария\source\repos\another test\another test\bin\Debug\another test.exe.config
+C:\Users\Мария\source\repos\another test\another test\bin\Debug\another test.exe
+C:\Users\Мария\source\repos\another test\another test\bin\Debug\another test.pdb
+C:\Users\Мария\source\repos\another test\another test\obj\Debug\another test.csproj.AssemblyReference.cache
+C:\Users\Мария\source\repos\another test\another test\obj\Debug\another test.csproj.CoreCompileInputs.cache
+C:\Users\Мария\source\repos\another test\another test\obj\Debug\another test.exe
+C:\Users\Мария\source\repos\another test\another test\obj\Debug\another test.pdb
