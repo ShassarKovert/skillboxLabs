@@ -1,0 +1,14 @@
+C:\Users\Мария\source\repos\another test\lessElement\bin\Debug\net6.0\lessElement.exe
+C:\Users\Мария\source\repos\another test\lessElement\bin\Debug\net6.0\lessElement.deps.json
+C:\Users\Мария\source\repos\another test\lessElement\bin\Debug\net6.0\lessElement.runtimeconfig.json
+C:\Users\Мария\source\repos\another test\lessElement\bin\Debug\net6.0\lessElement.dll
+C:\Users\Мария\source\repos\another test\lessElement\bin\Debug\net6.0\lessElement.pdb
+C:\Users\Мария\source\repos\another test\lessElement\obj\Debug\net6.0\lessElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\source\repos\another test\lessElement\obj\Debug\net6.0\lessElement.AssemblyInfoInputs.cache
+C:\Users\Мария\source\repos\another test\lessElement\obj\Debug\net6.0\lessElement.AssemblyInfo.cs
+C:\Users\Мария\source\repos\another test\lessElement\obj\Debug\net6.0\lessElement.csproj.CoreCompileInputs.cache
+C:\Users\Мария\source\repos\another test\lessElement\obj\Debug\net6.0\lessElement.dll
+C:\Users\Мария\source\repos\another test\lessElement\obj\Debug\net6.0\refint\lessElement.dll
+C:\Users\Мария\source\repos\another test\lessElement\obj\Debug\net6.0\lessElement.pdb
+C:\Users\Мария\source\repos\another test\lessElement\obj\Debug\net6.0\lessElement.genruntimeconfig.cache
+C:\Users\Мария\source\repos\another test\lessElement\obj\Debug\net6.0\ref\lessElement.dll
