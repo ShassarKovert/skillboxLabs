@@ -1,0 +1,14 @@
+C:\Users\Мария\source\repos\another test\simpleNumbers\bin\Debug\net6.0\simpleNumbers.exe
+C:\Users\Мария\source\repos\another test\simpleNumbers\bin\Debug\net6.0\simpleNumbers.deps.json
+C:\Users\Мария\source\repos\another test\simpleNumbers\bin\Debug\net6.0\simpleNumbers.runtimeconfig.json
+C:\Users\Мария\source\repos\another test\simpleNumbers\bin\Debug\net6.0\simpleNumbers.dll
+C:\Users\Мария\source\repos\another test\simpleNumbers\bin\Debug\net6.0\simpleNumbers.pdb
+C:\Users\Мария\source\repos\another test\simpleNumbers\obj\Debug\net6.0\simpleNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\source\repos\another test\simpleNumbers\obj\Debug\net6.0\simpleNumbers.AssemblyInfoInputs.cache
+C:\Users\Мария\source\repos\another test\simpleNumbers\obj\Debug\net6.0\simpleNumbers.AssemblyInfo.cs
+C:\Users\Мария\source\repos\another test\simpleNumbers\obj\Debug\net6.0\simpleNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Мария\source\repos\another test\simpleNumbers\obj\Debug\net6.0\simpleNumbers.dll
+C:\Users\Мария\source\repos\another test\simpleNumbers\obj\Debug\net6.0\refint\simpleNumbers.dll
+C:\Users\Мария\source\repos\another test\simpleNumbers\obj\Debug\net6.0\simpleNumbers.pdb
+C:\Users\Мария\source\repos\another test\simpleNumbers\obj\Debug\net6.0\simpleNumbers.genruntimeconfig.cache
+C:\Users\Мария\source\repos\another test\simpleNumbers\obj\Debug\net6.0\ref\simpleNumbers.dll
