@@ -1,0 +1,14 @@
+C:\Users\Мария\source\repos\assign1\homework5\bin\Debug\net6.0\assign1.exe
+C:\Users\Мария\source\repos\assign1\homework5\bin\Debug\net6.0\assign1.deps.json
+C:\Users\Мария\source\repos\assign1\homework5\bin\Debug\net6.0\assign1.runtimeconfig.json
+C:\Users\Мария\source\repos\assign1\homework5\bin\Debug\net6.0\assign1.dll
+C:\Users\Мария\source\repos\assign1\homework5\bin\Debug\net6.0\assign1.pdb
+C:\Users\Мария\source\repos\assign1\homework5\obj\Debug\net6.0\assign1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\source\repos\assign1\homework5\obj\Debug\net6.0\assign1.AssemblyInfoInputs.cache
+C:\Users\Мария\source\repos\assign1\homework5\obj\Debug\net6.0\assign1.AssemblyInfo.cs
+C:\Users\Мария\source\repos\assign1\homework5\obj\Debug\net6.0\assign1.csproj.CoreCompileInputs.cache
+C:\Users\Мария\source\repos\assign1\homework5\obj\Debug\net6.0\assign1.dll
+C:\Users\Мария\source\repos\assign1\homework5\obj\Debug\net6.0\refint\assign1.dll
+C:\Users\Мария\source\repos\assign1\homework5\obj\Debug\net6.0\assign1.pdb
+C:\Users\Мария\source\repos\assign1\homework5\obj\Debug\net6.0\assign1.genruntimeconfig.cache
+C:\Users\Мария\source\repos\assign1\homework5\obj\Debug\net6.0\ref\assign1.dll
